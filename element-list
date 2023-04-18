@@ -2,3 +2,4 @@ com.datahonor.learn
 com.datahonor.learn.pattern.observer.swing
 com.datahonor.learn.pattern.observer.weather
 com.datahonor.learn.pattern.observer.weatherobservable
+com.datahonor.learn.pattern.strategy
