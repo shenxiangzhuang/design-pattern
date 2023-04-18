@@ -1,4 +1,4 @@
-package com.datahonor.learn.pattern.observer;
+package com.datahonor.learn.pattern.observer.weather;
 
 public interface Subject {
     public void registerObserver(Observer o);

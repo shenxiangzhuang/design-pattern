@@ -1,4 +1,4 @@
-package com.datahonor.learn.pattern.observer;
+package com.datahonor.learn.pattern.observer.weather;
 
 public class WeatherStation {
     public static void main(String[] args) {

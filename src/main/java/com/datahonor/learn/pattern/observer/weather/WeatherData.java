@@ -1,4 +1,4 @@
-package com.datahonor.learn.pattern.observer;
+package com.datahonor.learn.pattern.observer.weather;
 
 
 import java.util.ArrayList;
