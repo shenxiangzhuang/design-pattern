@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.datahonor.learn"},{"l":"com.datahonor.learn.pattern.observer.swing"},{"l":"com.datahonor.learn.pattern.observer.weather"},{"l":"com.datahonor.learn.pattern.observer.weatherobservable"}];updateSearchResults();
