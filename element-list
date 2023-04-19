@@ -1,4 +1,5 @@
 com.datahonor.learn
+com.datahonor.learn.pattern.decorator.starbuzz
 com.datahonor.learn.pattern.observer.swing
 com.datahonor.learn.pattern.observer.weather
 com.datahonor.learn.pattern.observer.weatherobservable
